@@ -52,7 +52,7 @@ a {
 }
 
 #buttonGreen:hover {
-    border: 1vh solid #EFEFEF;
+    border: 2vh solid #EFEFEF;
     background-color: #cbffd0;
 }
 
@@ -63,7 +63,7 @@ a {
 
 
 #buttonBlue:hover {
-    border: 1vh solid #EFEFEF;
+    border: 2vh solid #EFEFEF;
     background-color: #cbf1ff;
 }
 
@@ -73,7 +73,7 @@ a {
 }
 
 #buttonPink:hover {
-    border: 15px solid #EFEFEF;
+    border: 2vh solid #EFEFEF;
     background-color: #f1cbff;
 }
 
@@ -83,7 +83,7 @@ a {
 }
 
 #buttonPurple:hover {
-    border: 15px solid #EFEFEF;
+    border: 2vh solid #EFEFEF;
     background-color: #cbd4ff;
 }
 
