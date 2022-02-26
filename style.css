@@ -4,8 +4,8 @@
 /*    margin-left: auto;*/
     margin-right: auto;
     margin-top: 10vh;
-    width: 20vh;
-    margin-left: 1.5vh;
+    width: 25vh;
+/*    margin-left: 1.5vh;*/
     margin-right: 1.5vh;
 }
 
@@ -87,6 +87,20 @@ a {
     background-color: #cbd4ff;
 }
 
+#laurels {
+    display: inline;
+    margin-bottom: -1.5vh;
+    width: 15vh;
+
+}
+
+#emerging {
+    display: inline;
+    margin-bottom: -2vh;
+/*    margin: auto;*/
+    width: 15vh;
+}
+
 .email{
     text-decoration: underline;
     margin-left: 1.5vh;
@@ -94,6 +108,6 @@ a {
 }
 
 .email:hover{
-    font-size: 2.1vh;
+/*    font-size: 2.1vh;*/
     text-decoration-style: wavy;
 }
