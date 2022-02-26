@@ -89,7 +89,7 @@ a {
 
 #laurels {
     display: inline;
-    margin-bottom: -1.5vh;
+    margin-bottom: -2vh;
     width: 15vh;
 
 }
@@ -98,12 +98,12 @@ a {
     display: inline;
     margin-bottom: -2vh;
 /*    margin: auto;*/
-    width: 15vh;
+    width: 9vh;
 }
 
 .email{
     text-decoration: underline;
-    margin-left: 1.5vh;
+/*    margin-left: 1.5vh;*/
     margin-right: 1.5vh;
 }
 
